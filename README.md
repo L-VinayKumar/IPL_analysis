@@ -7,7 +7,7 @@ IPL is the most-attended cricket league in the world and in 2019 it ranked secon
 
 
 
-![App Screenshot](https://png.pngitem.com/pimgs/s/127-1270088_ipl-10-logo-png-vivo-ipl-2019-logo.png)
+![App Screenshot](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.nicepng.com%2Fourpic%2Fu2w7t4e6r5q8q8u2_series-tournaments-cricket-indian-premier-league-ipl-logo%2F&psig=AOvVaw1B_idjdmvX9V39TEaZTZXf&ust=1667611286035000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPilnaWuk_sCFQAAAAAdAAAAABAJ)
 
 ## Table of Contents:
 
