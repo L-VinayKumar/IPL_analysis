@@ -48,7 +48,7 @@ plotly package :_
 
 ## Data Visualization
 
-### Full report of this project:[IPL](https://github.com/L-VinayKumar/IPL_analysis/blob/main/IPL-Analysis/IPL_analysis_EDA.ipynb)
+### Full report of this project: [IPL](https://github.com/L-VinayKumar/IPL_analysis/blob/main/IPL-Analysis/IPL_analysis_EDA.ipynb)
 
     * Score distribution
   ![Logo](https://github.com/L-VinayKumar/IPL_analysis/blob/main/IPL-Analysis/Score_distribution_by_team.PNG?raw=true)
