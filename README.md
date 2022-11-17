@@ -22,7 +22,7 @@ IPL is the most-attended cricket league in the world and in 2019 it ranked secon
 
 * In depth analysis of Virat Kholi Performance
 * Score distribution for teams by Innings
-* How many times teams scored more than 200?
+* How many times teams scred more than 200?
 * Batsman Comparison
 * Top 10 batsman total score
 * Top 10 Individual High score
