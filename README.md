@@ -1,4 +1,4 @@
-# **IPL Data Analysis - EDA**
+# **IPL Data Analysi - EDA**
 
 The Indian Premier League(IPL) is a professional T-20 league in india contested during summer of every year by eight teams representing eight different cities in india
 
